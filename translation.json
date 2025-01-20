@@ -1,12 +1,12 @@
 {
-  "appName": "Tiny File Manager",
+  "appName": "PW File Manager",
   "version": "2.6",
   "language": [
     {
       "name": "Română",
       "code": "ro",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Titlu aplicație",
         "Login": "Autentificare",
         "Username": "Nume utilizator",
@@ -89,7 +89,7 @@
       "name": "Hungarian",
       "code": "hu",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Fájl kezelő",
         "Login": "Bejelentkezés",
         "Username": "Felhasználói név",
@@ -169,7 +169,7 @@
       "name": "Norsk",
       "code": "no",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Fil behandler",
         "Login": "Logg inn",
         "Username": "Brukernavn",
@@ -249,7 +249,7 @@
       "name": "فارسی",
       "code": "Fa",
       "translation": {
-        "Tiny File Manager": "مدیریت فایل کوچک",
+        "PW File Manager": "مدیریت فایل کوچک",
         "File Manager": "مدیریت فایل",
         "Sign in": "ورود",
         "Username": "نام کاربری",
@@ -450,7 +450,7 @@
         "Advanced Search": "Ricerca avanzata",
         "AdvancedEditor": "Editor avanzato",
         "already exists": "già esistente",
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "File Manager",
         "Archive not created": "Archivio non creato",
         "Archive not unpacked": "Archivio non decompresso",
@@ -573,7 +573,7 @@
         "Actions": "Actions",
         "AdvancedEditor": "Editeur avancé",
         "Advanced Search": "Recherche avancée",
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Gestionnaire de fichiers",
         "Back": "Retour",
         "BackUp": "Sauvegarder",
@@ -759,7 +759,7 @@
       "name": "Català",
       "code": "ca",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Administrador d'Arxius",
         "Login": "Iniciar Sessió",
         "Username": "Nom d'Usuari",
@@ -839,7 +839,7 @@
       "name": "Deutsch",
       "code": "de",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Dateimanager",
         "Login": "Einloggen",
         "Username": "Benutzername",
@@ -957,7 +957,7 @@
       "name": "ภาษาไทย",
       "code": "th",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "ตัวจัดการไฟล์",
         "Login": "เข้าสู่ระบบ",
         "Username": "ชื่อผู้ใช้งาน",
@@ -1254,7 +1254,7 @@
       "name": "Bahasa Indonesia",
       "code": "id",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Pengelola Berkas",
         "Login": "Masuk",
         "Username": "Nama pengguna",
@@ -1337,7 +1337,7 @@
       "name": "Ελληνικά",
       "code": "gr",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "File Manager",
         "Login": "Είσοδος",
         "Username": "Username",
@@ -1521,7 +1521,7 @@
       "name": "Polski",
       "code": "pl",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Menedżer plików",
         "Login": "Login",
         "Username": "Nazwa Użytkownika",
@@ -1832,7 +1832,7 @@
       "name": "Česky",
       "code": "cz",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "File Manager",
         "Login": "Přihlásit",
         "Username": "Přihlašovací jméno",
@@ -1910,7 +1910,7 @@
       "name": "Türkçe",
       "code": "tr",
       "translation": {
-        "Tiny File Manager": "Tiny Dosya Yöneticisi",
+        "PW File Manager": "Tiny Dosya Yöneticisi",
         "File Manager": "Dosya Yöneticisi",
         "Sign in": "Giriş Yap",
         "Username": "Kullanıcı adı",
@@ -1984,7 +1984,7 @@
       "name": "Slovensky",
       "code": "sk",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "File Manager",
         "Login": "Prihlásiť sa",
         "Username": "Prihlasovacie meno",
@@ -2049,7 +2049,7 @@
       "name": "Slovensko",
       "code": "sl",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Raziskovalec",
         "Login": "Prijava",
         "Username": "Uporabniško ime",
@@ -2109,7 +2109,7 @@
       "name": "Suomi",
       "code": "fi",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "File Manager",
         "Login": "Kirjautuminen",
         "Username": "Käyttäjänimi",
@@ -2178,7 +2178,7 @@
       "name": "한국어",
       "code": "ko",
       "translation": {
-        "Tiny File Manager": "Tiny File Manager",
+        "PW File Manager": "PW File Manager",
         "File Manager": "File Manager",
         "Sign in": "로그인",
         "Username": "아이디",
@@ -2252,7 +2252,7 @@
       "name": "日本語",
       "code": "ja",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "File Manager",
         "Login": "ログイン",
         "Username": "Username",
@@ -2337,7 +2337,7 @@
       "name": "Монгол",
       "code": "mn_MN",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Файл зохицуулагчr",
         "Login": "Нэвтрэх",
         "Username": "Хэрэглэгчийн нэр",
@@ -2422,7 +2422,7 @@
       "name": "Dutch",
       "code": "nl",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "PW File Manager",
         "AppTitle": "Bestandsbeheer ",
         "Login": "Inloggen",
         "Username": "Gebruikersnaam",
